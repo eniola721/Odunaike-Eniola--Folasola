@@ -7,7 +7,6 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
 import Services from "./components/Services";
-import FeaturedProperties from "./components/FeaturedProperties";
 import WhyMe from "./components/WhyMe";
 import Vision from "./components/Vision";
 import LeadForm from "./components/LeadForm";
@@ -21,7 +20,6 @@ export default function App() {
       <Hero />
       <About />
       <Services />
-      <FeaturedProperties />
       <WhyMe />
       <Vision />
       <LeadForm />
